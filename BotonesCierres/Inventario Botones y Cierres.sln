@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventario Botones y Cierres", "Inventario Botones y Cierres.csproj", "{C6F61979-0F72-4CA8-A854-7E8D05A6B08D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F61979-0F72-4CA8-A854-7E8D05A6B08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F61979-0F72-4CA8-A854-7E8D05A6B08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F61979-0F72-4CA8-A854-7E8D05A6B08D}.Debug|x86.ActiveCfg = Debug|x86
+		{C6F61979-0F72-4CA8-A854-7E8D05A6B08D}.Debug|x86.Build.0 = Debug|x86
+		{C6F61979-0F72-4CA8-A854-7E8D05A6B08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F61979-0F72-4CA8-A854-7E8D05A6B08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F61979-0F72-4CA8-A854-7E8D05A6B08D}.Release|x86.ActiveCfg = Release|x86
+		{C6F61979-0F72-4CA8-A854-7E8D05A6B08D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19475197-0722-4BB3-B4DB-33D7B2AB50BA}
+	EndGlobalSection
+EndGlobal
